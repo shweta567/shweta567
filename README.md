@@ -2,7 +2,7 @@
 
 <h1 align="center">Greetings! Fellow Learners! 👋</h1>
 <h3 align="center">I'm Shweta Shalini, AI & ML enthusiast on a journey to mastering  the world of data and predictions.</h3>
-<img align="right" alt="coding width=*400" scr="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta567&label=Profile%20views&color=0e75b6&style=flat" alt="shweta567" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shweta567" alt="shweta567" /></a> </p>
